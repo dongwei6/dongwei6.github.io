@@ -27,7 +27,7 @@ li {
   background-size: 100% 100%;
   position: absolute;
   left: 42%;
-  top: 45%;
+  top: 35%;
   transform: translate(-50%,-50%);
   -webkit-transform-style: preserve-3d;
   -webkit-transform: rotateX(13deg);
@@ -136,33 +136,33 @@ li {
   -webkit-transform-style: preserve-3d;
 }
 .maxbox:hover li {
-  width: 300px;
-  height: 300px;
+  width: 396px;
+  height: 400px;
   position: absolute;
   left: 0;
   top: 0;
 }
 .maxbox:hover li:nth-child(1) {
   background: url(../images/1.png) no-repeat 0 0;
-  -webkit-transform: translateZ(200px);
+  -webkit-transform: translateZ(300px);
 }
 .maxbox:hover li:nth-child(2) {
   background: url(../images/2.png) no-repeat 0 0;
-  -webkit-transform: rotateX(180deg) translateZ(200px);
+  -webkit-transform: rotateX(180deg) translateZ(300px);
 }
 .maxbox:hover li:nth-child(3) {
   background: url(../images/3.png) no-repeat 0 0;
-  -webkit-transform: rotateX(-90deg) translateZ(200px);
+  -webkit-transform: rotateX(-90deg) translateZ(300px);
 }
 .maxbox:hover li:nth-child(4) {
   background: url(../images/4.png) no-repeat 0 0;
-  -webkit-transform: rotateX(90deg) translateZ(200px);
+  -webkit-transform: rotateX(90deg) translateZ(300px);
 }
 .maxbox:hover li:nth-child(5) {
   background: url(../images/5.png) no-repeat 0 0;
-  -webkit-transform: rotateY(-90deg) translateZ(200px);
+  -webkit-transform: rotateY(-90deg) translateZ(300px);
 }
 .maxbox:hover li:nth-child(6) {
   background: url(../images/6.png) no-repeat 0 0;
-  -webkit-transform: rotateY(90deg) translateZ(200px);
+  -webkit-transform: rotateY(90deg) translateZ(300px);
 }
