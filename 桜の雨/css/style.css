@@ -27,7 +27,7 @@ li {
   background-size: 100% 100%;
   position: absolute;
   left: 42%;
-  top: 35%;
+  top: 38%;
   transform: translate(-50%,-50%);
   -webkit-transform-style: preserve-3d;
   -webkit-transform: rotateX(13deg);
@@ -131,8 +131,8 @@ li {
   width: 800px;
   height: 400px;
   position: absolute;
-  left: -46px;
-  top: -72px;
+  left: -88px;
+  top: -130px;
   -webkit-transform-style: preserve-3d;
 }
 .maxbox:hover li {
