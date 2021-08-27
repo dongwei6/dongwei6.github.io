@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+.container-nav {
+  display: flex;
+  position: absolute;
+  padding-left: 30px;
+  margin: 0 auto;
+}
+.container-nav li {
+  font-size: 18px;
+  padding: 10px;
+}
+li a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: chocolate;
+}
